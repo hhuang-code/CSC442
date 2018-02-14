@@ -1,4 +1,4 @@
-(a) Collaborator: Wei Zhang (NetID: wzhang45)
+(a) Collaborator: Wei Zhang
 (b) How to build:
 - Unzip the zip file.
 - Enter into the "Code" folder through terminal.
