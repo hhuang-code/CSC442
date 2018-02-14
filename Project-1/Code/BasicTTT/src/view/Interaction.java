@@ -1,3 +1,5 @@
+// written by my partner Wei Zhang
+
 package view;
 
 import java.io.BufferedReader;
