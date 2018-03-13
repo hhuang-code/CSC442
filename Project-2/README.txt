@@ -7,3 +7,6 @@
 - Enter into the "Code" folder through terminal.
 - To run examples: type "bash ./run.sh"
 - Type example index according to the bash hint.
+
+Note:
+Files in 'examples' and 'sln' packages are written by us; other source files are provided by the course instructor.
